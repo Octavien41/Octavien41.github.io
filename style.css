@@ -21,10 +21,10 @@ body {
 }
 
 .image {
-    width: 100px;       
-    height: 100px;      
+    width: 200px;       
+    height: 200px;      
     overflow: hidden;   
-    padding-left: 70px
+    padding-left: 40px
 }
 
 .image img {
