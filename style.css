@@ -57,7 +57,7 @@ header h2 {
     font-weight: 400;
 }
 
-section h3 {
+.main-content h3 {
     color: #1a3a5a;
     border-left: 5px solid #1a3a5a;
     padding-left: 10px;
@@ -75,7 +75,7 @@ section h3 {
     font-size: 0.9em;
 }
 
-h4 {
+.main-content h4 {
     margin-bottom: 5px;
     color: #000000;
 }
